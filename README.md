@@ -7,4 +7,4 @@ Version: 1.0
 
 Authors: Nikole Florence
 
-User Instructions: Clone the repository to a Python IDE of your choice. Run the PasswordGeneratorNF.py file first, and follow the instructions to create a password, then run the test_generator.py file.
+User Instructions: Download the files to a Python IDE of your choice. Run the PasswordGeneratorNF.py file first, and follow the instructions to create a password, then run the test_generator.py file.
